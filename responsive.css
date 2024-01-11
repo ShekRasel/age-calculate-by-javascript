@@ -1,0 +1,19 @@
+@media screen and (max-width:400px) {
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .container1{
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .container2{
+        height: 70px;
+        width: 350px;
+    }
+    .container2 input{
+        width: 130px;
+        padding: 0px 3px 0px 7px;
+    }
+}
